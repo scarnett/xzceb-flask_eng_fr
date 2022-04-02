@@ -3,3 +3,7 @@ Flask-WTF==0.14.3
 ibm-watson==4.4.1
 python-dotenv==0.13.0
 pyJWT==1.7.1
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
+pylint==2.13.4
